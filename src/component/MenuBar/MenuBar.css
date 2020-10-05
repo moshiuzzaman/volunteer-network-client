@@ -1,0 +1,24 @@
+
+.ml-auto.menuBar-links.navbar-nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+.ml-auto.menuBar-links.navbar-nav button {
+    margin: 0 10px;
+    width: 114px;
+}
+a.menuBar-link {
+    padding: 7px 25px;
+}
+a.navbar-brand img {
+    width: 150px;
+}
+nav.menuBar {
+    padding: 20px 0;
+}
+a.menuBar-name {
+    padding: 8px 16px;
+    color: blue !important;
+    font-weight: bold !important;
+}

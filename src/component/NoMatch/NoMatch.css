@@ -1,0 +1,12 @@
+.noMAtchpage.row img {
+    float: right;
+}
+
+.noMAtchpage.row {
+    height: 100vh;
+    padding-top: 8%;
+}
+h1.nomatch.headding {
+    font-size: 70px;
+    font-weight: 900;
+}

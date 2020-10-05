@@ -1,0 +1,48 @@
+.home {
+    background: linear-gradient(#ffffffa6,#fffffff0),linear-gradient(#ffffff85,#ffffffd9),url(https://i.ibb.co/Nmhncmr/Backyard-Volunteering-1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    min-height: 717px;
+}
+h3.search-heading {
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+input.searchinput.form-control {
+    width: 300px;
+    display: inline;
+    padding: 23px 15px;
+    border-radius: 50px 0 0 50px;
+    border: 2px solid #007bff;
+    border-right: 0;
+}
+img.preeload-image {
+    position: relative;
+    left: 40%;
+}
+button.search-button.btn.btn-primary {
+    margin-top: -3px;
+    border-radius: 0px 50px 50px 0;
+    padding: 11px 25px;
+    border: 2px solid #007bff;
+}
+h5.opportunity-title {
+    background: #0a8794;
+    height: 81px;
+    color: white;
+    padding: 15px 7px;
+    margin-top: -80px;
+    z-index: 2;
+    position: relative;
+    border-radius: 0 0 10px 10px;
+}
+img.opportunity-image.w-100 {
+    height: 312px;
+    z-index: 1;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+.opportunity {
+    margin: 15px;
+}

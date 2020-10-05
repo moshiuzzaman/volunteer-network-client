@@ -1,0 +1,120 @@
+.adminMenu {
+    background-color: white;
+    min-height: 100vh;
+    padding: 5% 0 0 10%;
+    height: 100%;
+}
+img.adminMenuLogo.logo {
+    width: 75%;
+    margin-bottom: 15%;
+}
+.adminMenu button {
+    background-color: white;
+    border: 0;
+    display: block;
+    padding: 10px 0px;
+    outline: none;
+}
+svg.adminMenuIcon {
+    margin-right: 13px;
+}
+.adminMenu button:focus{
+    outline: none;
+}
+.adminDashboardHeader {
+    background-color: white;
+    padding: 12px 44px;
+}
+.adminDashboardDetails {
+    background-color: white;
+    margin: 30px;
+    padding: 28px;
+    border-radius: 10px;
+}
+a.adminLogout {
+    position: absolute;
+    bottom: 16px;
+}
+button.deleteButton {
+    padding: 0px 0px;
+    margin: 0;
+    font-size: 29px;
+    background-color: white;
+    border: 0;
+    color: red;
+}
+button.deleteButton:focus{
+    outline: none;
+}
+.addEventForm input {
+    margin-bottom: 24px;
+    outline: none;
+}
+ 
+.addEventForm .error {
+    color: #bf1650;
+  }
+  
+  .addEventForm .error::before {
+    display: inline;
+    content: "⚠ ";
+  }
+  
+  .addEventForm input {
+    box-sizing: border-box;
+    width: 45%;
+    padding: 12px 15px;
+    font-size: 14px;
+    margin: 22px;
+    margin-top: 0;
+}
+.addEventForm select {
+   box-sizing: border-box;
+    width: 45%;
+    padding: 12px 15px;
+    font-size: 14px;
+    margin: 22px;
+}
+.addEventForm [type="submit"] {
+    background: #ec5990;
+    color: white;
+    text-transform: uppercase;
+    padding: 12px;
+    font-size: 16px;
+    letter-spacing: 10px;
+    font-weight: bold;
+    border: none;
+    width: 45%;
+}
+  
+  .addEventForm  button[type="submit"]:hover,
+  .addEventForm input[type="submit"]:hover {
+    background: #bf1650;
+  }
+  
+  .addEventForm  input:disabled {
+    opacity: 0.7;
+    color: rgb(7, 7, 122);
+  }
+  input.event-datepicker {
+    width: 100%;
+    margin: 20px;
+}
+.react-datepicker-wrapper {
+    box-sizing: border-box;
+    width: 45%;
+    padding: 10px 11px;
+    font-size: 14px;
+}
+
+form.addEventForm label {
+    width: 50%;
+    padding-left: 20px;
+}
+
+
+
+
+
+
+/* ---------- */

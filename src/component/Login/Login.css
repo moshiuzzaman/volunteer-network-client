@@ -1,0 +1,18 @@
+.login-logo{
+    width: 300px;
+    padding: 2%;
+}
+.login {
+    width: 500px;
+    border: 2px solid;
+    padding: 103px 40px;
+    border-radius: 10px;
+}
+.login h1 {
+    font-weight: 200;
+    margin-bottom: 22px;
+}
+svg.login-button-icon {
+    font-size: 32px;
+    float: left;
+}
